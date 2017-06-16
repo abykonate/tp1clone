@@ -1,0 +1,90 @@
+.men{
+	height: 60px;
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	list-style-type: none;
+	align-items: center;
+}
+.men .dt{
+	font-size: 24px;
+	color: #ff55c2;
+}
+.men .gr{
+	font-size: 18px;
+}
+.sous-menu{
+	height: 60px;
+	text-align: center;
+	padding-top: 10px;
+	background-color: #c6c6c6;
+	font-size: 18px;
+}
+.vide{
+	height: 5px;
+	background-color: #ff55c2;
+}.men li a{
+	color: right;
+}
+span{
+	color: #eee;
+}
+.ima{
+	width: 100%;
+	height: 400px;
+	background-image: url(../images1/coworking.jpg);
+	background-size: cover;
+	height: 600px;
+}
+.ima .texte{
+	float: right;
+	height: 300px;
+	margin: 150px 40px 40px 0px;
+	padding: 40px 0 40px  20px;
+	background-color:white;
+	opacity: 0.5;
+	border: 1px solid gray;
+
+
+}
+.texte .btn{
+	background-color: #ff55c2;
+	color: black;
+	font-weight: bold;
+	border:#ff55c2;
+	padding: :20px 80px;
+}
+h6{
+	font-weight: bold;
+	padding-right: 40px;
+	
+
+}
+.ava{
+	display: flex;
+	justify-content: space-around ;
+	height: 170px;
+}
+h4{
+	font-weight: bold;
+}
+.ava .btn{
+	background-color: #ccc;
+	color: black;
+	border-color: #ccc;
+}
+footer{
+	background-color: black;
+	color: white;
+	height: 60px;
+	padding-top: 20px;
+}
+.vide2{
+	height: 10px;
+}
+.f{
+	border-right: 1px solid #ccc;
+}
+
+
